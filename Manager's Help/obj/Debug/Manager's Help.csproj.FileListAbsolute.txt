@@ -1,0 +1,20 @@
+C:\Users\raobr\Desktop\Manager's Help\bin\Debug\Database.mdf
+C:\Users\raobr\Desktop\Manager's Help\bin\Debug\Database_log.ldf
+C:\Users\raobr\Desktop\Manager's Help\bin\Debug\Manager's Help.exe.config
+C:\Users\raobr\Desktop\Manager's Help\bin\Debug\Manager's Help.exe
+C:\Users\raobr\Desktop\Manager's Help\bin\Debug\Manager's Help.pdb
+C:\Users\raobr\Desktop\Manager's Help\obj\Debug\Manager's Help.csproj.AssemblyReference.cache
+C:\Users\raobr\Desktop\Manager's Help\obj\Debug\Manager's Help.csproj.SuggestedBindingRedirects.cache
+C:\Users\raobr\Desktop\Manager's Help\obj\Debug\Manager_s_Help.Form1.resources
+C:\Users\raobr\Desktop\Manager's Help\obj\Debug\Manager_s_Help.Properties.Resources.resources
+C:\Users\raobr\Desktop\Manager's Help\obj\Debug\Manager's Help.csproj.GenerateResource.cache
+C:\Users\raobr\Desktop\Manager's Help\obj\Debug\Manager's Help.csproj.CoreCompileInputs.cache
+C:\Users\raobr\Desktop\Manager's Help\obj\Debug\Manager's Help.exe
+C:\Users\raobr\Desktop\Manager's Help\obj\Debug\Manager's Help.pdb
+C:\Users\raobr\Desktop\Manager's Help\bin\Debug\DatabaseDataSet.Designer.cs
+C:\Users\raobr\Desktop\Manager's Help\bin\Debug\DatabaseDataSet.xsc
+C:\Users\raobr\Desktop\Manager's Help\bin\Debug\DatabaseDataSet.xsd
+C:\Users\raobr\Desktop\Manager's Help\bin\Debug\DatabaseDataSet.xss
+C:\Users\raobr\Desktop\Manager's Help\bin\Debug\Form1.resx
+C:\Users\raobr\Desktop\Manager's Help\bin\Debug\Form1.cs
+C:\Users\raobr\Desktop\Manager's Help\bin\Debug\Form1.Designer.cs
